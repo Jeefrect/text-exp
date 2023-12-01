@@ -8,8 +8,9 @@
 ## Задняя сторона:
 - Зелёная зона (for backface spoke), разместить UV-развертку задней стороны спиц.
 - Синяя зона (for backface spoke), разместить UV-развертку задней стороны обода диска.
-  
-![BackUVgiude](https://github.com/Jeefrect/text-exp/assets/121081064/7509e94d-9536-4b10-8b16-e419ffa73441)
+
+![guide_uv2](https://github.com/Jeefrect/text-exp/assets/121081064/7bb62205-d6ee-4012-b431-ccae9c8dcd10)
+
 
 Чтобы быстро сделать UV-развертку разветрку выбранного объекта в Blender, необходима нажать U -> Unwrap.
 
