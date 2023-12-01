@@ -11,6 +11,7 @@
 ![BackUVgiude](https://github.com/Jeefrect/text-exp/assets/121081064/7509e94d-9536-4b10-8b16-e419ffa73441)
 
 Чтобы быстро сделать UV-развертку разветрку выбранного объекта в Blender, необходима нажать U -> Unwrap.
+
 ![image](https://github.com/Jeefrect/text-exp/assets/121081064/f252be25-34ad-488f-ad71-f0b3762ba101)
 
 ### Правильная UV-развертка:
